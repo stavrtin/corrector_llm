@@ -1,0 +1,9 @@
+.venv/
+.venv_311/
+.venv_312/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+*.docx
